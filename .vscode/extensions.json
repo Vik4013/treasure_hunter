@@ -1,5 +1,8 @@
 {
     "recommendations": [
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "richterger.perl",
+        "harryhopkinson.vs-code-runner",
+        "github.codespaces"
     ]
 }

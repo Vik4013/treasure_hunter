@@ -1,0 +1,8 @@
+{
+    "remoteHub.richNavigation.indexMode": {},
+    "github.codespaces.defaultExtensions": [
+        
+        "GitHub.codespaces",
+        "GitHub.vscode-pull-request-github"
+    ]
+}
