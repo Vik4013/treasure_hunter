@@ -3,9 +3,21 @@
     // Pointez pour afficher la description des attributs existants.
     // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "CMake : Lancé en externe",
+            "cmakeDebugType": "external",
+            "pipeName": "<...>"
+        }
+
+    ]
         {
             "name": "PowerShell Attach to Host Process",
             "type": "PowerShell",
             "request": "attach"  
+        }
+
+    ]
 }
